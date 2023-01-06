@@ -10,7 +10,7 @@ Add the code to at the very beginning inside \<head\> ---- \<\/head\>, html seem
 I downlaod [git for windows](https://gitforwindows.org/) to clone this repository to local folder.
 
 Use GitBASH to update local repository from github
-'''
+```
 $ cd path-to-repo/repo-name
 $ git pull
-'''
+```
