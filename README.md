@@ -14,3 +14,7 @@ Use GitBASH to update local repository from github
 $ cd path-to-repo/repo-name
 $ git pull
 ```
+Pushes the changes in your local repository up to the remote repository you specified as the origin
+```
+$ git push origin main
+```
